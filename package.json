@@ -21,5 +21,8 @@
     "gulp-sass": "^4.0.2",
     "gulp-sass-glob": "^1.0.9",
     "vinyl-source-stream": "^2.0.0"
+  },
+  "dependencies": {
+    "tar": "^4.4.8"
   }
 }
